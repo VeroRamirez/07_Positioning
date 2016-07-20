@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+.rojo{
+	background-color: red;
+	position: absolute;
+}
+
+.azul{
+	background-color: blue;
+	position: absolute;
+	right: 0px;
+}
+
+.verde{
+	background-color: green;
+	position: absolute;
+	bottom: 0px;
+
+}
+
+.morada{
+	background-color: purple;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+
+}
